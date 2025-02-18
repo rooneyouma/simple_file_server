@@ -1,7 +1,7 @@
 # Simple_file_server
 
 ## Features
-- Serves files from the `static/` directory
+- Serves files from the `files/` directory
 - Runs on `localhost:8080` by default
 - Easy to use and customize
 
